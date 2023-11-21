@@ -9,5 +9,5 @@ Cart API has the capabilities of handling CRUD operations, which are followed be
 
 ### Tools Used In The Project
 - Spring Boot
-- PostgreSQL
 - JPA/Hibernate
+- PostgreSQL
